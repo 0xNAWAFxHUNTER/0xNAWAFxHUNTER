@@ -26,7 +26,7 @@
 
 ---
 
-## 🚀 My Tech Stack
+## 🚀 Tech Stack
 
 | Language | IDE/Tools | Expertise |
 |----------|-----------|-----------|
