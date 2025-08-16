@@ -9,7 +9,8 @@
 - CyberCuriosly interested in studying PENETRATION-TESTING & BINARY-EXPOITATION(purely offensive).
 - CYBERSECURITY student in Umm Alqura university
 
-- IMPORTANT: This repository is not to show you how i solve problems, It's to show you dazzling Solutions to some problems and also small projects...ENJOY;)
+- <h3 align="center" style="color:#FFD700;">🚨 IMPORTANT NOTICE 🚨</h3>
+- This repository is not to show you how i solve problems, It's to show you dazzling Solutions to some problems and also small projects...ENJOY;)
 
 
 ### 💻 C++ Programmer | 🔍 Algorithms Enthusiast | 🛠 Visual Studio Dev
