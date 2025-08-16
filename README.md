@@ -7,7 +7,7 @@
 
 ---
 
-### 🧠 About Me
+# 🧠 About Me
 - I'm a passionate C++ problem solving programmer with a strong foundation and hands-on experience in building real-world projects. I bring clean, efficient, and well-documented code to the table(CLEAN CODE) — perfect for your software needs💻🚀.
 - Currently i'm at OOP course studying how to write a clean code with Mohammed Abu-Hadhud in his web platform PROGRAMMINGADVICES, I look forward to become a Full-Stack developer...Otherwise Back-end.
 - CyberCuriosly interested in studying PENETRATION-TESTING & BINARY-EXPOITATION(purely offensive).
@@ -24,16 +24,6 @@
 ---
 
 ### 💻 C++ Programmer | 🔍 Algorithms Enthusiast | 🛠 Visual Studio Dev
-
----
-
-## 🧠 About Me
-
-- 🎯 Focused on writing clean, efficient, and optimized C++ code.
-- 📊 Passionate about solving data structures and algorithmic challenges.
-- ⚙️ My daily tools: `C++17/20`, `STL`, `Visual Studio`, `GDB`, `Git`.
-- 🧩 Regularly tackle problems on platforms like LeetCode, Codeforces, AtCoder & more.
-- 💬 Open to collaborating on competitive programming, open-source C++ tools, or optimization problems.
 
 ---
 
