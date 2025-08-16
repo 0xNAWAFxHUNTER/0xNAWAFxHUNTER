@@ -16,7 +16,9 @@
   <strong style="color:#FF69B4;">and also small projects built for fun, learning, and creativity.</strong><br><br>
   <strong style="color:#FFA500;">ENJOY😉</strong>
 </p>
+
 ---
+
 ### 💻 C++ Programmer | 🔍 Algorithms Enthusiast | 🛠 Visual Studio Dev
 
 ---
