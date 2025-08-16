@@ -3,7 +3,7 @@
 
 
 
-# My.Work()(;
+# 👋 Hello, I'm [Your Name]!
 - I'm a passionate C++ problem solving programmer with a strong foundation and hands-on experience in building real-world projects. I bring clean, efficient, and well-documented code to the table(CLEAN CODE) — perfect for your software needs💻🚀.
 - Currently i'm at OOP course studying how to write a clean code with Mohammed Abu-Hadhud in his web platform PROGRAMMINGADVICES, I look forward to become a Full-Stack developer...Otherwise Back-end.
 - CyberCuriosly interested in studying PENETRATION-TESTING & BINARY-EXPOITATION(purely offensive).
@@ -11,8 +11,6 @@
 
 - IMPORTANT: This repository is not to show you how i solve problems, It's to show you dazzling Solutions to some problems and also small projects...ENJOY;)
 
-
-# 👋 Hello, I'm [Your Name]!
 
 ### 💻 C++ Programmer | 🔍 Algorithms Enthusiast | 🛠 Visual Studio Dev
 
