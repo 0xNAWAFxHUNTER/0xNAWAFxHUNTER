@@ -59,12 +59,3 @@ Here’s where I push my algorithm solutions and competitive programming practic
 | 🔹 [CP Snippets](https://github.com/your-github-username/cp-snippets) | My personal library of fast-to-use snippets in contests. |
 | 🔹 [Visual Studio Setup Guide](https://github.com/your-github-username/vs-cpp-setup) | Guide to setting up a C++-oriented environment in Visual Studio. |
 
----
-
-## 📬 Let's Connect
-
-- 🌐 [LinkedIn](https://linkedin.com/in/yourname)
-- 🐦 [Twitter / X](https://twitter.com/yourhandle)
-- 💌 [Email](mailto:yourname@example.com)
-
----
