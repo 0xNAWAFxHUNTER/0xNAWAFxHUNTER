@@ -1,5 +1,5 @@
 
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" alt="GitHub Banner">
+<img src="YOUR_IMAGE_URL.png" width="100%" alt="C++ & Visual Studio Banner">
 
 # My.Work()(;
 - I'm a passionate C++ problem solving programmer with a strong foundation and hands-on experience in building real-world projects. I bring clean, efficient, and well-documented code to the table(CLEAN CODE) — perfect for your software needs💻🚀.
