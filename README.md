@@ -1,4 +1,4 @@
-https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true
+https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif
 
 # My.Work()(;
 - I'm a passionate C++ problem solving programmer with a strong foundation and hands-on experience in building real-world projects. I bring clean, efficient, and well-documented code to the table(CLEAN CODE) — perfect for your software needs💻🚀.
