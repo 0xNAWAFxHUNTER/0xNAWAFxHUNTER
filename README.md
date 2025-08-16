@@ -1,5 +1,6 @@
-[https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif
-](https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif)https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation">
+
 # My.Work()(;
 - I'm a passionate C++ problem solving programmer with a strong foundation and hands-on experience in building real-world projects. I bring clean, efficient, and well-documented code to the table(CLEAN CODE) — perfect for your software needs💻🚀.
 - Currently i'm at OOP course studying how to write a clean code with Mohammed Abu-Hadhud in his web platform PROGRAMMINGADVICES, I look forward to become a Full-Stack developer...Otherwise Back-end.
