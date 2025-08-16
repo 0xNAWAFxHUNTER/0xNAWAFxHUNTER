@@ -1,5 +1,4 @@
- <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);"
- src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjFldTVwYmd5ejZ0NWNzM3R2Y3VnZHBja2VrcHF4OWkzdHpxNmtmdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QNFhOolVeCzPQ2Mx85/giphy.gif">
+ <img style="src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjFldTVwYmd5ejZ0NWNzM3R2Y3VnZHBja2VrcHF4OWkzdHpxNmtmdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QNFhOolVeCzPQ2Mx85/giphy.gif"
 
 
 
