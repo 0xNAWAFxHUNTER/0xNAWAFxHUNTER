@@ -1,5 +1,4 @@
-https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWdweHpvMzZzczFnb2xxOGp2N3JqN2p1dHo4Ymx1MWpqbW81N3F0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif
-
+<div class="overflow-hidden text-ellipsis whitespace-nowrap subpixel-antialiased">@XRayAutomation</div>
 # My.Work()(;
 - I'm a passionate C++ problem solving programmer with a strong foundation and hands-on experience in building real-world projects. I bring clean, efficient, and well-documented code to the table(CLEAN CODE) — perfect for your software needs💻🚀.
 - Currently i'm at OOP course studying how to write a clean code with Mohammed Abu-Hadhud in his web platform PROGRAMMINGADVICES, I look forward to become a Full-Stack developer...Otherwise Back-end.
