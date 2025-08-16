@@ -31,8 +31,6 @@
 | Language | IDE/Tools | Expertise |
 |----------|-----------|-----------|
 | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) | ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white) | Data Structures, Algorithms |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![GDB](https://img.shields.io/badge/GDB-000000?style=flat&logo=gnu&logoColor=white) | Scripting, Debugging |
-| ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white) | Version Control, Build Systems |
 
 ---
 
