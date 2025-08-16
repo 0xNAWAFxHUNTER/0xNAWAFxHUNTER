@@ -1,15 +1,13 @@
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjFldTVwYmd5ejZ0NWNzM3R2Y3VnZHBja2VrcHF4OWkzdHpxNmtmdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QNFhOolVeCzPQ2Mx85/giphy.gif">
 
 
-
-
-# 👋 Hello, I'm 0xNepushy
-
 ---
 
 ### 💻 C++ Programmer | 🔍 Algorithms Enthusiast | 🛠 Visual Studio Dev
 
 ---
+
+# 👋 Hello, I'm 0xNepushy
 
 ### 🧠 About Me
 - I'm a passionate C++ problem solving programmer with a strong foundation and hands-on experience in building real-world projects. I bring clean, efficient, and well-documented code to the table(CLEAN CODE) — perfect for your software needs💻🚀.
