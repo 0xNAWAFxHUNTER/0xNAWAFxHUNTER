@@ -10,7 +10,12 @@
 - CYBERSECURITY student in Umm Alqura university
 
 <h3 align="center" style="color:#FFD700;">🚨 IMPORTANT NOTICE 🚨</h3>
-
+<p align="center">
+  <strong style="color:#00CED1;">This repository is not to show you how I solve problems.</strong><br>
+  <strong style="color:#ADFF2F;">It's to show you dazzling ✨ solutions to select problems,</strong><br>
+  <strong style="color:#FF69B4;">and small projects built for fun, learning, and creativity.</strong><br><br>
+  <strong style="color:#FFA500;">ENJOY 😉!</strong>
+</p>
 - This repository is not to show you how i solve problems, It's to show you dazzling Solutions to some problems and also small projects...ENJOY;)
 
 
