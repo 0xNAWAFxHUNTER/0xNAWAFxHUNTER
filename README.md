@@ -9,7 +9,7 @@
 - CyberCuriosly interested in studying PENETRATION-TESTING & BINARY-EXPOITATION(purely offensive).
 - CYBERSECURITY student in Umm Alqura university
 
-<h3 align="center" style="color:#FFD700;">🚨 IMPORTANT NOTICE 🚨</h3>
+<h3 align="center" style="color:#FFD7FF;">🚨 IMPORTANT NOTICE 🚨</h3>
 <p align="center">
   <strong style="color:#00CED1;">This repository is not to show you how I solve problems.</strong><br>
   <strong style="color:#ADFF2F;">It's to show you dazzling ✨ solutions to some problems.</strong><br>
