@@ -1,4 +1,10 @@
 <div class="overflow-hidden text-ellipsis whitespace-nowrap subpixel-antialiased">@XRayAutomation</div>
+
+
+
+
+
+
 # My.Work()(;
 - I'm a passionate C++ problem solving programmer with a strong foundation and hands-on experience in building real-world projects. I bring clean, efficient, and well-documented code to the table(CLEAN CODE) — perfect for your software needs💻🚀.
 - Currently i'm at OOP course studying how to write a clean code with Mohammed Abu-Hadhud in his web platform PROGRAMMINGADVICES, I look forward to become a Full-Stack developer...Otherwise Back-end.
