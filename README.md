@@ -1,5 +1,5 @@
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation">
+<img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100%" alt="Matrix Coding GIF">
 
 # My.Work()(;
 - I'm a passionate C++ problem solving programmer with a strong foundation and hands-on experience in building real-world projects. I bring clean, efficient, and well-documented code to the table(CLEAN CODE) — perfect for your software needs💻🚀.
