@@ -24,16 +24,6 @@
 
 ---
 
-## 🧪 Algorithm Playground
-
-Here’s where I push my algorithm solutions and competitive programming practice:
-
-- 📁 [`/algorithms`](https://github.com/your-github-username/algorithms) – Clean, modular implementations.
-- 🧠 [`/problems`](https://github.com/your-github-username/problems) – Solved problems with explanations.
-- ⚔️ [`/contests`](https://github.com/your-github-username/contests) – My submissions during online contests.
-
----
-
 ## 📌 Projects You Might Like
 
 | Project | Description |
