@@ -28,7 +28,5 @@
 
 | Project | Description |
 |--------|-------------|
-| 🔹 [DSA Toolkit](https://github.com/your-github-username/dsa-toolkit) | Reusable, tested C++ templates for standard algorithm problems. |
-| 🔹 [CP Snippets](https://github.com/your-github-username/cp-snippets) | My personal library of fast-to-use snippets in contests. |
-| 🔹 [Visual Studio Setup Guide](https://github.com/your-github-username/vs-cpp-setup) | Guide to setting up a C++-oriented environment in Visual Studio. |
+| 🔹 [Bank System](https://github.com/0xNAWAFxHUNTER/Programming-Advices-Journey/tree/main/Projects/Bank%20Solutions/OOP%20Bank%20System) | Clean OOP. |
 
